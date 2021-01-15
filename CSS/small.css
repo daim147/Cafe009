@@ -1,0 +1,100 @@
+.cafe{
+    font-size: 1.2rem;
+    margin: 0.5rem 0 0 0;
+}
+.navber{
+    flex-direction: column;
+    justify-content: center;
+ 
+    text-align: center;
+    height: 10vh;
+}
+.logoimg{
+    /* width: 8vw;
+    height: 15vh; */
+    margin-left: 0.3rem;
+    margin-top: 0.3rem;
+}
+.logo{
+ 
+    text-align: center;
+  
+}
+#Home{
+    padding: 0;
+    width: 60vw;
+}
+#Home h1{
+    margin: 2rem 0 0.4rem 0 ;
+    font-size: 1.4rem;
+}
+#Home p{
+    font-size: 0.9rem;
+    letter-spacing: 0;
+    line-height: 1rem;
+    margin: 2rem 0;
+    font-weight: bolder;
+}
+ul{
+    width: 100vw;
+    margin-bottom: 0.1rem;
+    margin-top: 0.3rem;
+}
+.lnk{
+    font-size: 1rem;
+}
+.butn{
+    margin-bottom: 1rem;
+    margin-left: 0;
+}
+#Home::before{
+   background-size: cover;
+   background-position:center;
+} 
+
+#main > h2{
+    font-size: 1.9rem;
+    margin-bottom: 1.3rem;
+}
+#main{padding: 1rem;}
+.burger, .pizza, .wings{
+    display: flex;
+}
+
+.hp h2{
+    width: auto;
+    margin: 0; font-size: 2rem;
+    text-align: center;
+}
+.hp p{
+    font-size: 1rem;
+    margin-left: 0;
+    text-align: center;
+}
+.head2{
+    font-size: 2rem;
+}
+.rows h3{
+    font-size: 1.7rem;
+}
+.dp5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.onionhead{
+    margin-top: 0.3rem;
+}
+
+.form10 h2{
+    font-size: 1.9rem;
+  
+}
+#contact p{
+    font-size: 1rem;
+}
+.button11{
+    margin: 0.5rem;
+}

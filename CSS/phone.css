@@ -1,0 +1,74 @@
+.btnn {
+    margin-top: 0rem; 
+     margin-left: 0rem;
+}
+.form10{
+    flex-direction: column;
+}
+.navber{
+    flex-direction: row;
+}
+ul{
+    margin: 1rem auto;
+}
+.lnk{
+    font-size: 1.1rem;
+}
+.bb{
+    width: 100vw;
+    
+}
+.cafe{
+    font-size: 2rem;
+}
+#Home{
+    width: auto;
+    padding: 3rem 12rem 4rem 1rem;
+    margin-left: 0.5rem;
+}
+.kkk{
+    padding-left: 0;
+    padding-right: 0;
+}
+#Home h1{
+    font-size: 2.5rem;
+}
+#Home p{
+    font-size: 1.4rem;
+}
+.butn{
+    padding: 0.7rem;
+    margin-right:0;
+    margin-bottom: 0;
+    margin-left: 0.9rem;
+}
+
+.wings,
+.burger,
+.pizza {
+
+margin: 1rem 0;
+
+
+}
+
+
+
+
+
+#contact{
+    width: 100vw;   padding: 2rem 4rem;
+   
+}
+#contact h2{
+    margin: 0;
+}
+#contact p{
+    margin-top: 1.5rem;
+    padding: 0;
+    text-align: justify;
+}
+form{
+    padding: 2rem 4rem;
+
+}
